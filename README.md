@@ -16,8 +16,6 @@
 <h3>💻 Python Developer | 🌏 Gaya, India </h3>
 </div>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Web Development and App Development
 - 🌱 I’m currently learning Data Structures and Algorithms with advance python implementations
 - 👯 I’m looking to collaborate on any web dev or app dev projects, or anything with python
