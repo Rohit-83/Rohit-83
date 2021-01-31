@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-<h3>💻 Python Developer Developer | 🌏 Gaya, India </h3>
+<h3>💻 Python Developer | 🌏 Gaya, India </h3>
 </div>
 
 <!--
