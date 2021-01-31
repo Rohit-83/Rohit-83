@@ -16,9 +16,6 @@
 <h3>💻 Python Developer | 🌏 Gaya, India </h3>
 </div>
 
-<!--
-**Rohit-83/Rohit-83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development and App Development
@@ -28,5 +25,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, C++ or any latest technology, I am always available
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love Sports!
--->
+
 <img src="https://github-readme-stats.vercel.app/api?username=Rohit-83&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
