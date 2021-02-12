@@ -1,12 +1,5 @@
-<div align="center">
- <h1> Hi, I'm Rohit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-</div>
+# Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"><br>I am Rohit
 
-<br>
-
-<div align="center">
-<h4>🌏 Gaya, India </h4>
-</div>
 # I am Rohit Kumar, a budding web & app developer. I like making cool stuffs with Python & Flutter. I am currently pursuing my Bachelor's in Computer Science and I am in my 5th semester. I am a 5 star coder on HackerRank.
 ---
 ## Connect with me on - 
