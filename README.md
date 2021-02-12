@@ -5,10 +5,10 @@
 <br>
 
 <div align="center">
-<h3>🌏 Gaya, India </h3>
+<h4>🌏 Gaya, India </h4>
 </div>
-## I am Rohit Kumar, a budding web & app developer. I like making cool stuffs with Python & Flutter. I am currently pursuing my Bachelor's in Computer Science and I am in my 5th semester. I am a 5 star coder on HackerRank.
-
+# I am Rohit Kumar, a budding web & app developer. I like making cool stuffs with Python & Flutter. I am currently pursuing my Bachelor's in Computer Science and I am in my 5th semester. I am a 5 star coder on HackerRank.
+---
 ## Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/rohit-kumar8/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_rony_83_/)
@@ -48,7 +48,7 @@
 <img align=center src="https://github-profile-trophy.vercel.app/?username=Rohit-83&theme=monokai&row=2&column=3&margin-w=8&margin-h=8">
 </p>
 
-### <h2 align=center>My current streak</h2> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnoob16"/>
+### <h2 align=center>My Current Statistics</h2> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-83"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rohit-83&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
