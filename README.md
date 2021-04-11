@@ -1,12 +1,12 @@
 # Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I am Rohit
 
-## I am Rohit Kumar, a budding Web & App developer. I like making cool stuffs with Python & Flutter. I am currently pursuing my Bachelor's in Computer Science and I am in my 5th semester. I am a 5 star coder on HackerRank.
+## I am Rohit Kumar, a budding Web & App developer. I like making cool stuffs with Python & Flutter. I am currently pursuing my Bachelor's in Computer Science and I am in my 6th semester. I am a 5 star coder on HackerRank.
 ---
 ## Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/rohit-kumar8/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_rony_83_/)
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:rk5744081@gmail.com)
-
+![Visits Badge](https://badges.pufler.dev/visits/Rohit-83/Rohit-83?style=for-the-badge)
 ---
 
 ## Tech Stacks
