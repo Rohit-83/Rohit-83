@@ -60,4 +60,4 @@
 </p>
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)# Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I am Rohit
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
